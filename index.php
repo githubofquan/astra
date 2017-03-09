@@ -101,82 +101,49 @@
 				</div>
 				<div class="row">
 					<div class="col-lg-12">
-						<ul class="timeline">
-							<li>
-								<div class="timeline-image">
-									<img class="img-circle img-responsive" src="http://astra.vn/wp-content/uploads/2017/02/nhavuong.jpg" alt="">
-								</div>
-								<div class="timeline-panel">
-									<!-- <div class="timeline-heading"> -->
-                                    <!-- <h4>2009-2011</h4> -->
-                                    <!-- <h4 class="subheading">International consultancy firm - owned by Asian and European construction professionals</h4> -->
-									<!-- </div> -->
-									<div class="timeline-body">
-										<p class="text-muted">
-											Construction consultant founded and owned by European professionals. Aimed to integrate precisity and quality approach of an international consultant with the decades knowledge of South East Asian and Vietnam construction market.
-										</p>
-									</div>
-								</div>
-							</li>
-							<li class="timeline-inverted">
-								<div class="timeline-image">
-									<img class="img-circle img-responsive" src="http://astra.vn/wp-content/uploads/2017/02/nhavuong.jpg" alt="">
-								</div>
-								<div class="timeline-panel">
-									<!-- <div class="timeline-heading"> -->
-                                    <!-- <h4>March 2011</h4> -->
-                                    <!-- <h4 class="subheading">An Agency is Born</h4> -->
-									<!-- </div> -->
-									<div class="timeline-body">
-										<p class="text-muted">
-											Property investors on current booming market, are in one hand aiming towards a built quality meets highest international level criteria. In same time looking at a consulting partner with pricing flexibility and project understanding are adapted to local market.
-											<br><span style="color:#184085;">Our answer is ASTRA consultancy services.</span>
-											
-										</p>
-									</div>
-								</div>
-							</li>
-							<li>
-								<div class="timeline-image">
-									<img class="img-circle img-responsive" src="http://astra.vn/wp-content/uploads/2017/02/nhavuong.jpg" alt="">
-								</div>
-								<div class="timeline-panel">
-									<!-- <div class="timeline-heading"> -->
-                                    <!-- <h4>December 2012</h4> -->
-                                    <!-- <h4 class="subheading">Transition to Full Service</h4> -->
-									<!-- </div> -->
-									<div class="timeline-body">
-										<p class="text-muted">
-											ASTRA integrates the efficiency, preciseness and systematic approach founded on European management practice with the dynamism, flexibility, affordable pricing and deep understanding of local construction industry details and constraints.
-										</p>
-									</div>
-								</div>
-							</li>
-							<li class="timeline-inverted">
-								<div class="timeline-image">
-									<img class="img-circle img-responsive" src="http://astra.vn/wp-content/uploads/2017/02/nhavuong.jpg" alt="">
-								</div>
-								<div class="timeline-panel">
-									<div class="timeline-heading">
-										<!-- <h4>July 2014</h4> -->
-										<!-- <h4 class="subheading">Phase Two Expansion</h4> -->
-									</div>
-									<div class="timeline-body">
-										<p class="text-muted">
-											Other key players on the market contractors and consultants are also seeking for integrated quality management solutions to respond with minimized risks to the demand of the intensifying market. 
-											ASTRA is capable to provide efficient sub-consultancy solutions on the Quality Control, Quality Assurance and Quality Management fields to consultants and contractors as well.
-										</p>
-									</div>
-								</div>
-							</li>
-							<li class="timeline-inverted"><a class="page-scroll" style="color:white;" href="#contact">
-								<div class="timeline-image">
-									<h4> CONTACT US 
-									</h4>
-								</div>
-							</a>
-							</li>
-						</ul>
+						<div class="col-lg-6">
+							<div class="timeline-body">
+								<p class="text-muted">
+									Construction consultant founded and owned by European professionals. Aimed to integrate precisity and quality approach of an international consultant with the decades knowledge of South East Asian and Vietnam construction market.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-6">
+							<div class="timeline-body">
+								<p class="text-muted">
+									Property investors on current booming market, are in one hand aiming towards a built quality meets highest international level criteria. In same time looking at a consulting partner with pricing flexibility and project understanding are adapted to local market.
+									<br><span style="color:#184085;">Our answer is ASTRA consultancy services.</span>
+									
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-12"> 
+						<img style="margin:0 auto;border:7px solid #184085;" class="img-circle img-responsive" src="http://astra.vn/wp-content/uploads/2017/02/nhavuong.jpg" alt="">
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="col-lg-6">
+							<div class="timeline-body">
+								<p class="text-muted">
+									ASTRA integrates the efficiency, preciseness and systematic approach founded on European management practice with the dynamism, flexibility, affordable pricing and deep understanding of local construction industry details and constraints.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-6">
+							<div class="timeline-body">
+								<p class="text-muted">
+									Other key players on the market contractors and consultants are also seeking for integrated quality management solutions to respond with minimized risks to the demand of the intensifying market. 
+									ASTRA is capable to provide efficient sub-consultancy solutions on the Quality Control, Quality Assurance and Quality Management fields to consultants and contractors as well.
+								</p>
+							</div>
+						</div>
+						
+						
+						
 					</div>
 				</div>
 			</div>
@@ -282,9 +249,9 @@
 								<img class="img-responsive"  src="http://astra.vn/wp-content/uploads/2017/02/pjimage.jpg" />
 								<p class="service-caption"> 
 									For main  consultants seeking to outsource such services, ASTRA will provide with sub-consultancy services of integrated project, construction management and construction supervision. Such sub-consultancy may consist of. Once starting a new project, opting to outsource to an experienced special consultant as ASTRA may substantially reduce the main consultants risks and over stressing internal organization of main consultant. ASTRA, as your sub – consultant shall:<br>
-- Prepare and adopt to actual project requirements and implement on the project the procedures, protocols and documentation interfaces of project-, consturction management and construction supervision<br>
-- Provide human resource in line with the main consultant actual in house manpower and outsource needs 
-
+									- Prepare and adopt to actual project requirements and implement on the project the procedures, protocols and documentation interfaces of project-, consturction management and construction supervision<br>
+									- Provide human resource in line with the main consultant actual in house manpower and outsource needs 
+									
 								</p>
 							</div>
 						</div>
@@ -292,10 +259,10 @@
 							<div class="servicedetail"> 
 								<img class="img-responsive"  src="http://astra.vn/wp-content/uploads/2017/02/pjimage.jpg" />
 								<p class="service-caption"> 
-									 With state of art construction management procedures, ASTRA may provide with sub-consultancy services of Construction management that may consist of
-<br>- Provision of entire construction management procedures system
-<br>- Review system in place, augment and enhance in view of improvements required / envisioned
-<br>- Provision of skilled construction manager to work with your constrution management team, support partially or undertake the whole construction manager scope. 
+									With state of art construction management procedures, ASTRA may provide with sub-consultancy services of Construction management that may consist of
+									<br>- Provision of entire construction management procedures system
+									<br>- Review system in place, augment and enhance in view of improvements required / envisioned
+									<br>- Provision of skilled construction manager to work with your constrution management team, support partially or undertake the whole construction manager scope. 
 								</p>
 							</div>
 						</div>
@@ -304,10 +271,10 @@
 								<img class="img-responsive"  src="http://astra.vn/wp-content/uploads/2017/02/pjimage.jpg" />
 								<p class="service-caption"> 
 									Main consultants and EPC contractors - so as to comply construction regulations the consturciton works are subject to mandatory construction supervision that is undertaken by authorized staffs and compliant procedures. Main consultant may seek to outsource the construction supervision process so as to comply all related requirements. ASTRA shall
-<br>- Provide procedures required for a successful and compliant undertaking of the supervision and / or
-<br>- Provide the human resources
-<br>- Deliver the construction supervision services as a 1 point contact hassle free sub consultancy solution
-
+									<br>- Provide procedures required for a successful and compliant undertaking of the supervision and / or
+									<br>- Provide the human resources
+									<br>- Deliver the construction supervision services as a 1 point contact hassle free sub consultancy solution
+									
 								</p>
 							</div>
 						</div>
@@ -723,7 +690,7 @@
 						</div>
 						<div class="container">
 							<div class="row">
-								<iframe src="https://docs.google.com/presentation/d/1P5rTrXk0ldm0GmfYTyqlVgYfXvo6d3UftdpH9vqeFyo/embed?start=false&loop=false&delayms=30000&slide=id.p<?php echo (6+$x);?>" frameborder="0" width="1200" height="800" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+								<!-- <iframe src="https://docs.google.com/presentation/d/1P5rTrXk0ldm0GmfYTyqlVgYfXvo6d3UftdpH9vqeFyo/embed?start=false&loop=false&delayms=30000&slide=id.p<?php echo (6+$x);?>" frameborder="0" width="1200" height="800" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> -->
 							</div>
 						</div>
 					</div>

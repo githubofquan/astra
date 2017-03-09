@@ -823,4 +823,8 @@ section#services {
 .marginlefth4 {
 	margin-left:31px;
 }
+
+.timeline-body:hover {
+	font-weight: bold;
+}
 /* custom end * /
