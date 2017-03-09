@@ -698,7 +698,7 @@
 						</div>
 						<div class="container">
 							<div class="row">
-								<!-- <iframe src="https://docs.google.com/presentation/d/1P5rTrXk0ldm0GmfYTyqlVgYfXvo6d3UftdpH9vqeFyo/embed?start=false&loop=false&delayms=30000&slide=id.p<?php echo (6+$x);?>" frameborder="0" width="1200" height="800" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> -->
+							<iframe src="https://docs.google.com/presentation/d/1P5rTrXk0ldm0GmfYTyqlVgYfXvo6d3UftdpH9vqeFyo/embed?start=false&loop=false&delayms=30000&slide=id.p<?php echo (6+$x);?>" frameborder="0" width="1200" height="800" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 							</div>
 						</div>
 					</div>
