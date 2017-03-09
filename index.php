@@ -43,7 +43,9 @@
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
 						<span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
 					</button>
-					<a class="navbar-brand page-scroll" href="#page-top"><img id="logo" src="http://astra.vn/wp-content/uploads/2017/02/astralogo.jpg" /></a>
+					<!-- <a class="navbar-brand page-scroll" href="#page-top">
+						
+					</a> -->
 				</div>
 				
 				<!-- Collect the nav links, forms, and other content for toggling -->
@@ -80,7 +82,9 @@
 			<div class="container">
 				<div class="intro-text">
 					<div class="intro-lead-in">Welcome To Astra!</div>
-					<div class="intro-heading">It's Nice To Meet You</div>
+					<div class="intro-heading">
+						<img id="logo" src="http://astra.vn/wp-content/uploads/2017/02/astralogo.jpg" />
+					</div>
 					<!-- <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a> -->
 				</div>
 			</div>
