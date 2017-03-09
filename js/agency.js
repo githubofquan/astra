@@ -44,7 +44,9 @@
 	$('.service-heading').bind('mouseout', function(event) {
 	event.preventDefault();
 			var that = this;
-			$(that).css('font-style','normal');			
+			$(that).css('font-style','normal');		
+			$(".service-right").hide();
+			$("#service0").show();
     });
 	
 	$('.who-link').bind('click', function(event) {

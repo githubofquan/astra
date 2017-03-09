@@ -161,16 +161,16 @@
 				<div class="row">
 					<div class="col-md-4">
 						<div class="service-left"> 
-							<div style="font-size:31px;">ASTRA</div>
-							<div style="font-size:28px;margin-left:20px;">To Investors</div>
+							<div style="font-size:24px;">ASTRA</div>
+							<div style="font-size:24px;margin-left:20px;">To Investors</div>
 							<a class="service-heading" href="#service1"><h4 class="marginlefth4">Project preparation</h4></a>
 							<a class="service-heading" href="#service2"><h4 class="marginlefth4">Project / programme management</h4></a>
 							<a class="service-heading" href="#service3"><h4 class="marginlefth4">Construction management</h4></a>
 							<a class="service-heading" href="#service4"><h4 class="marginlefth4">Construction supervision</h4></a>
 							<a class="service-heading" href="#service5"><h4 class="marginlefth4">Leading architecture</h4></a>
 							
-							<div style="font-size:31px;">ASTRA</div>
-							<div style="font-size:28px;margin-left:20px;">To consultants & contractors</div>
+							<div style="font-size:24px;">ASTRA</div>
+							<div style="font-size:24px;margin-left:20px;">To consultants & contractors</div>
 							<a class="service-heading" href="#service6"><h4 class="marginlefth4">PM - CM - QAQC system integration</h4></a>
 							<a class="service-heading" href="#service7"><h4 class="marginlefth4">Construction management</h4></a>
 							<a class="service-heading" href="#service8"><h4 class="marginlefth4">Supervision system optimization</h4></a>
@@ -178,7 +178,15 @@
 						</div>
 					</div>
 					<div class="col-md-8">
-						<div class="service-right" id="service1"> 
+					<div class="service-right" id="service0"> 
+							<div class="servicedetail"> 
+								<img class="img-responsive"  src="http://astra.vn/wp-content/uploads/2017/02/pjimage.jpg" />
+								<p class="service-caption">  
+									
+								</p>
+							</div>
+						</div>
+						<div class="service-right" id="service1" style="display:none;"> 
 							<div class="servicedetail"> 
 								<img class="img-responsive"  src="http://astra.vn/wp-content/uploads/2017/02/pjimage.jpg" />
 								<p class="service-caption">  
