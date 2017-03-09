@@ -310,7 +310,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<ul class="bxslider" data-call="bxslider" data-options="{slideMargin:5, autoReload:true, pager:true, controls:true}" data-breaks="[{screen:0, slides:1, pager:false},{screen:460, slides:2},{screen:768, slides:3,pager:false}]" > 
+					<ul class="bxslider" data-call="bxslider" data-options="{slideMargin:5, autoReload:true, pager:true, controls:true}" data-breaks="[{screen:0, slides:1, pager:false},{screen:460, slides:2},{screen:768, slides:5,pager:false}]" > 
 						<li> <div class="portfolio-item">
 							<a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
 								<div class="portfolio-hover">
@@ -318,7 +318,7 @@
 										<i class="fa fa-plus fa-3x"></i>
 									</div>
 								</div>
-								<img style="height:280px;width:386px;" src="http://astra.vn/wp-content/uploads/2017/02/5.jpg" class="img-responsive" alt="">
+								<img style="height:180px;width:386px;" src="http://astra.vn/wp-content/uploads/2017/02/5.jpg" class="img-responsive" alt="">
 							</a>
 							<div class="portfolio-caption">
 								<h4>VINHOMES - PARKHILL  2</h4>
@@ -333,7 +333,7 @@
 											<i class="fa fa-plus fa-3x"></i>
 										</div>
 									</div>
-									<img style="height:280px;width:386px;" src="http://astra.vn/wp-content/uploads/2017/02/6.jpg" class="img-responsive" alt="">
+									<img style="height:180px;width:386px;" src="http://astra.vn/wp-content/uploads/2017/02/6.jpg" class="img-responsive" alt="">
 								</a>
 								<div class="portfolio-caption">
 									<h4>SHP  PLAZA – MERCURE****</h4>
@@ -349,7 +349,7 @@
 											<i class="fa fa-plus fa-3x"></i>
 										</div>
 									</div>
-									<img style="height:280px;width:386px;" src="http://astra.vn/wp-content/uploads/2017/02/7.jpg" class="img-responsive" alt="">
+									<img style="height:180px;width:386px;" src="http://astra.vn/wp-content/uploads/2017/02/7.jpg" class="img-responsive" alt="">
 								</a>
 								<div class="portfolio-caption">
 									<h4>VINHOMES GARDENIA</h4>
@@ -365,7 +365,7 @@
 											<i class="fa fa-plus fa-3x"></i>
 										</div>
 									</div>
-									<img style="height:280px;width:386px;" src="http://astra.vn/wp-content/uploads/2017/02/8.jpg" class="img-responsive" alt="">
+									<img style="height:180px;width:386px;" src="http://astra.vn/wp-content/uploads/2017/02/8.jpg" class="img-responsive" alt="">
 								</a>
 								<div class="portfolio-caption">
 									<h4>CGV MARINE PLAZA and CGV VINMALL</h4>
@@ -382,7 +382,7 @@
 											<i class="fa fa-plus fa-3x"></i>
 										</div>
 									</div>
-									<img style="height:280px;width:386px;" src="http://astra.vn/wp-content/uploads/2017/02/9.jpg" class="img-responsive" alt="">
+									<img style="height:180px;width:386px;" src="http://astra.vn/wp-content/uploads/2017/02/9.jpg" class="img-responsive" alt="">
 								</a>
 								<div class="portfolio-caption">
 									<h4>HOANG THANH TOWER</h4>
@@ -398,7 +398,7 @@
 											<i class="fa fa-plus fa-3x"></i>
 										</div>
 									</div>
-									<img style="height:280px;width:386px;" src="http://astra.vn/wp-content/uploads/2017/02/10.jpg" class="img-responsive" alt="">
+									<img style="height:180px;width:386px;" src="http://astra.vn/wp-content/uploads/2017/02/10.jpg" class="img-responsive" alt="">
 								</a>
 								<div class="portfolio-caption">
 									<h4>MEKONG RESTOP®</h4>
@@ -414,7 +414,7 @@
 											<i class="fa fa-plus fa-3x"></i>
 										</div>
 									</div>
-									<img style="height:280px;width:386px;" src="http://astra.vn/wp-content/uploads/2017/02/11.jpg" class="img-responsive" alt="">
+									<img style="height:180px;width:386px;" src="http://astra.vn/wp-content/uploads/2017/02/11.jpg" class="img-responsive" alt="">
 								</a>
 								<div class="portfolio-caption">
 									<h4>T e a m    r e f e r e n c e s </h4>
@@ -430,7 +430,7 @@
 											<i class="fa fa-plus fa-3x"></i>
 										</div>
 									</div>
-									<img style="height:280px;width:386px;" src="http://astra.vn/wp-content/uploads/2017/02/12.jpg" class="img-responsive" alt="">
+									<img style="height:180px;width:386px;" src="http://astra.vn/wp-content/uploads/2017/02/12.jpg" class="img-responsive" alt="">
 								</a>
 								<div class="portfolio-caption">
 									<h4>F u r t h e r  t e a m  r e f e r e n c e s</h4>
